@@ -1,0 +1,16 @@
+library(httr)
+library(jsonlite)
+library(plotly)
+
+
+Datos = fromJSON("asesorias-legales-a-turistas-cestur-2020-3.json")
+
+Datos <- data.frame(Datos)
+colnames(Datos)<- c("Tipo_de_asesoria", "Cantidad", "Mes", "Año")
+
+p = plot_ly(Datos, x = ~Mes,y = ~Cantidad,
+            name = 'Mes',
+            type = 'scatter',
+            mode = 'lines+markers')
+
+p %>% layout(title="Asesorias legales a turistas cestur 2020")

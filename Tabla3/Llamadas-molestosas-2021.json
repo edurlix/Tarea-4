@@ -1,0 +1,416 @@
+[
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 6113,
+   "Mes": "ENERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 141474,
+   "Mes": "ENERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 41658,
+   "Mes": "ENERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 32139,
+   "Mes": "FEBRERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 132893,
+   "Mes": "FEBRERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 5560,
+   "Mes": "FEBRERO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 34084,
+   "Mes": "MARZO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 5787,
+   "Mes": "MARZO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 147806,
+   "Mes": "MARZO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 135471,
+   "Mes": "ABRIL",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 39691,
+   "Mes": "ABRIL",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 6137,
+   "Mes": "ABRIL",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 38653,
+   "Mes": "MAYO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 138100,
+   "Mes": "MAYO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 6059,
+   "Mes": "MAYO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 158524,
+   "Mes": "JUNIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 41832,
+   "Mes": "JUNIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 7557,
+   "Mes": "JUNIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 159076,
+   "Mes": "JULIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 46206,
+   "Mes": "JULIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 8289,
+   "Mes": "JULIO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 12189,
+   "Mes": "AGOSTO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 72470,
+   "Mes": "AGOSTO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 225325,
+   "Mes": "AGOSTO",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 10281,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 70397,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 207950,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 186915,
+   "Mes": "OCTUBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 72044,
+   "Mes": "OCTUBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9436,
+   "Mes": "OCTUBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 207460,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 79333,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9935,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 212361,
+   "Mes": "DICIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 90890,
+   "Mes": "DICIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 11622,
+   "Mes": "DICIEMBRE",
+   "A�o": 2019
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 184843,
+   "Mes": "ENERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 79861,
+   "Mes": "ENERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9940,
+   "Mes": "ENERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 177955,
+   "Mes": "FEBRERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 74743,
+   "Mes": "FEBRERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9261,
+   "Mes": "FEBRERO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 159652,
+   "Mes": "MARZO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 70791,
+   "Mes": "MARZO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9526,
+   "Mes": "MARZO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 132336,
+   "Mes": "ABRIL",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 56972,
+   "Mes": "ABRIL",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 7786,
+   "Mes": "ABRIL",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 158941,
+   "Mes": "MAYO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 66580,
+   "Mes": "MAYO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 8543,
+   "Mes": "MAYO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 69017,
+   "Mes": "JUNIO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9134,
+   "Mes": "JUNIO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 164308,
+   "Mes": "JUNIO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 66038,
+   "Mes": "AGOSTO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9439,
+   "Mes": "AGOSTO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 155239,
+   "Mes": "AGOSTO",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 59597,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 8387,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 150634,
+   "Mes": "SEPTIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 65685,
+   "Mes": "OCTUBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 9377,
+   "Mes": "OCTUBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 157955,
+   "Mes": "OCTUBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 63664,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 8508,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 146444,
+   "Mes": "NOVIEMBRE",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA COLGADA",
+   "Cantidad de Llamada": 68811,
+   "Mes": "Diciembre",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA MOLESTOSA",
+   "Cantidad de Llamada": 10183,
+   "Mes": "Diciembre",
+   "A�o": 2020
+ },
+ {
+   "Tipo": "LLAMADA SILENCIOSA",
+   "Cantidad de Llamada": 153654,
+   "Mes": "Diciembre",
+   "A�o": 2020
+ }
+]
